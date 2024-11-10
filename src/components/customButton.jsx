@@ -9,7 +9,6 @@ const CustomButton = ({
   return (
     <div>
       <button
-        //   style={{backgroundColor: bg}}
         className={`bg-${bg}`}
         style={{ color: color, border: `2px solid ${borderColor}` }}
       >
